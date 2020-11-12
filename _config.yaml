@@ -19,7 +19,8 @@ turing_conf:
 # - '好友1'
 # - '好友2'
 auto_reply_names:
-  - '古典'
+  - '新希望-兰太敏'
+  - '新希望-蒋禄磊'
 
 #------------------------ 定时时间功能--------------------------
 alarm_info:
@@ -30,23 +31,23 @@ alarm_info:
 
 girlfriend_infos:
   - #女友微信昵称或者备注名，不能输入微信号。
-    wechat_name: '古典'
+    wechat_name: '新希望-兰太敏'
     #女友所在城市，用于发送天气。（可空）
-    city_name: '桂林'
+    city_name: '上海'
     # 格言渠道（1 : ONE●一个， 2 : 词霸（每日英语，双语）  4 : 一言)(可空)
     dictum_channel : 2
     # 从那天开始勾搭的(最终效果为：宝贝这是我们在一起的第 111 天)（可空）
-    start_date: '2017-10-10'
+    start_date: '2019-07-17'
     # 后缀（可空）
-    sweet_words: '来自最爱你的我。'
+    sweet_words: '来自究极开发蒋禄磊的小迷弟。'
 
 
 #  如果你有多个好友需要发送，则参照这个样式，复制即可
 #  如不需要，则删除或注解下面所有的数据
-  - wechat_name: 'happy'
-    city_name: '朝阳区'
+  - wechat_name: '新希望-蒋禄磊'
+    city_name: '上海'
     dictum_channel : 4
-    start_date: '2018-11-11'
-    sweet_words: '来自你俊美的老公。'
+    start_date: '2019-07-17'
+    sweet_words: '来自交易一哥兰太敏的卧底。'
 
 

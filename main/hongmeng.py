@@ -148,6 +148,7 @@ def get_alarm_msg():
 
 def run():
     """ 主运行入口 """
+    print('登录开始')
     if not is_online(auto_login=True):
         print('登录失败')
         return
